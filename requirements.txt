@@ -1,0 +1,7 @@
+gspread
+gspread-dataframe
+oauth2client
+google-auth
+google-auth-oauthlib
+google-api-python-client
+dotenv
